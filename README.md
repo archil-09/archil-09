@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:archilmaheshwari@gmail.com">📧 Email</a> •
+  <a href="mailto:archiljakhetiya@gmail.com">📧 Email</a> •
   
   <a href="https://github.com/archil-09">🐙 GitHub</a>
 </p>
