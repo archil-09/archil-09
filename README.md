@@ -46,7 +46,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=archil-09&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=35e2a0&icon_color=35e2a0&text_color=8fa39c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=archil-09&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=35e2a0&icon_color=35e2a0&text_color=8fa39c" />
+</p>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0a0f0d&ring=35e2a0&fire=35e2a0&currStreakLabel=35e2a0" />
 </p>
 
