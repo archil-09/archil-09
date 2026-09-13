@@ -51,7 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=35e2a0&text_color=8fa39c" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=35e2a0&icon_color=35e2a0&text_color=8fa39c" />
+  username=yourusername&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0f0d&title_color=35e2a0&text_color=8fa39c" />
 </p>
 
 ---
